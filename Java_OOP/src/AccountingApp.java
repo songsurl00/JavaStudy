@@ -11,7 +11,6 @@ class Accounting {
 }
 
 public class AccountingApp {
-
     public static void main(String[] args) {
     	Accounting.valueOfSupply = 10000.0;
         System.out.println("Value of supply : " + Accounting.valueOfSupply);
