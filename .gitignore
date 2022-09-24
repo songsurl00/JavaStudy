@@ -3,3 +3,4 @@
 *.yml
 *.xml
 *.iml
+.gitignore
